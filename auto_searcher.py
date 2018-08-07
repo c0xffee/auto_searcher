@@ -14,4 +14,3 @@ while True:
     tmp = now
     print('search for %s'%now)
     wb.open('www.google.com/search?q=%s'%now)
-    wb.open('www.google.com/search?q=%s+ccna'%now)
